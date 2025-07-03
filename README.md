@@ -1,2 +1,3 @@
 # heroku-stock-dashboard
-Stock redictions
+Stock predictions
+There are no guarantees. Invest at your risk
